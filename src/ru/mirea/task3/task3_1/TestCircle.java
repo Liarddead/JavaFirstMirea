@@ -1,4 +1,4 @@
-package ru.mirea.task2.task2_2;
+package ru.mirea.task3.task3_1;
 public class TestCircle { //
     public static void main(String[] args) { // Execution entry point
         // Construct an instance of the Circle class called c1
