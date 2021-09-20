@@ -1,6 +1,4 @@
-package ru.mirea.task2_1;
-
-import javax.naming.Name;
+package ru.mirea.task2.task2_1;
 
 public class Shape {
     private String name;
