@@ -1,4 +1,4 @@
-package ru.mirea.task2_1;
+package ru.mirea.task2.task2_1;
 public class TestShape {
     public static void main(String[] args) {
         Shape ex1=new Shape("Circle","blue");
