@@ -1,7 +1,7 @@
 package ru.mirea.task8.task8_1;
 import java.awt.*;
 import java.util.Random;
-public class RandomGeneration implements Parametrs {
+public class RandomGeneration {
     protected int X;
     protected  int Y;
     protected int WDT;
