@@ -30,7 +30,7 @@ public class  FurnitureShop{
         Scanner in = new Scanner(System.in);
         Name= in.nextLine();
         Type=in.nextLine();
-        a[count]=new Furniture(Name, Type) {
+        a[count]=new Furniture(Name, Type, 0) {
         };
         count++;
     }
