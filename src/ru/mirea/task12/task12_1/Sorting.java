@@ -6,7 +6,6 @@ public class Sorting {
     public static void main(String[] args) {
 Student st[]=new Student[7];
 int NumberId=0;
-int Studying_score=0;
 for (int i=0;i<7;i++){
     Scanner in = new Scanner(System.in);
     NumberId=in.nextInt();
